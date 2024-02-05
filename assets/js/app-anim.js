@@ -1292,8 +1292,12 @@ function ioConfirm(message, btnCallBack) {
 	}
 	return popup;
 }
-console.log("\n %c WebStack-Hugo 导航主题 By ShumLab %c https://www.shumlab.com/ \n", "color: #ffffff; background: #f1404b; padding:5px 0;", "background: #030307; padding:5px 0;");
-
+console.log('%cCopyright © 2024 jonk.top', 'background-color: #ff00ff; color: white; font-size: 24px; font-weight: bold; padding: 10px;');
+console.log('%c   /\\_/\\', 'color: #8B4513; font-size: 20px;');
+console.log('%c  ( o.o )', 'color: #8B4513; font-size: 20px;');
+console.log(' %c  > ^ <', 'color: #8B4513; font-size: 20px;');
+console.log('  %c /  ~ \\', 'color: #8B4513; font-size: 20px;');
+console.log('  %c/______\\', 'color: #8B4513; font-size: 20px;');
 /**
  * Minified by jsDelivr using Terser v5.3.5.
  * Original file: /npm/js-base64@3.6.0/base64.js
